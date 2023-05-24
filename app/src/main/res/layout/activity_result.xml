@@ -12,7 +12,7 @@
         android:layout_marginTop="10dp"
         android:layout_width="match_parent"
         android:text="                                Изображение сохранено"
-        android:layout_height="wrap_content"></TextView>
+        android:layout_height="wrap_content"/>
     <ImageView
         android:layout_width="match_parent"
         android:layout_marginLeft="40dp"
